@@ -1,4 +1,17 @@
-### Hi there 👋
+### 👋 Hi, I'm Vangelis Tsiatouras
+
+I'm a Software Engineer from Greece who is really passionate about Computer Science. Currently, I'm graduate student at M.Sc. Data, Information and Knowledge Management @ University of Athens.
+
+⚡️ I'm experienced on implementing backend RESTful APIs with SQL or noSQL databases.
+
+🌱 Currently I'm learning DevOps, such as Docker, Terraform and stuff...
+
+🤖 Sometimes I like to implement small Machine learning projects for fun.
+
+🏞️ At my free time, I love to go for hiking and at winter maybe you will find me at some snowy slope ⛷️
+
+Also you can find me [here](https://www.linkedin.com/in/vangelis-tsiatouras-0516b5170/)
+
 
 <!--
 **VangelisTsiatouras/VangelisTsiatouras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
