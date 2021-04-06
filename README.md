@@ -12,7 +12,7 @@ I'm a Software Engineer from Greece who is really passionate about Computer Scie
 
 🏞️ At my free time, I love to go for hiking and at winter maybe you will find me at some snowy slope ⛷️
 
-Also you can find me [here](https://www.linkedin.com/in/vangelis-tsiatouras-0516b5170/)
+Also you can find me [here](https://www.linkedin.com/in/vangelis-tsiatouras/)
 
 
 <!--
