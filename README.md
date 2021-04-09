@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Vangelis Tsiatouras
 
-I'm a Software Engineer from Greece who is really passionate about Computer Science. Currently, I'm graduate student at M.Sc. Data, Information and Knowledge Management @ University of Athens.
+I'm a Software Engineer from Greece who is really passionate about Computer Science. Currently, I'm graduate student at M.Sc. Computer Science - Data, Information and Knowledge Management @ University of Athens.
 
 ⚡️ I'm experienced on implementing backend RESTful APIs with SQL or noSQL databases.
 
