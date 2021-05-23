@@ -4,11 +4,7 @@ I'm a Software Engineer from Greece who is really passionate about Computer Scie
 
 ⚡️ I'm experienced on implementing backend RESTful APIs with SQL or noSQL databases.
 
-🌱 Currently I'm learning Graph DBs such as Neo4J, and Data Pipelining using [Prefect](https://www.prefect.io/)
-
-☁️ Also I have enrolled to AWS Certified Cloud Practitioner program in order to dive into Cloud Services for Big Data.
-
-🤖 Sometimes I like to implement small Machine Learning projects for fun.
+🤖 I have acedemic experience on Machine Learning practices & techniques.
 
 🏞️ At my free time, I love to go for hiking and at winter maybe you will find me at some snowy slope ⛷️
 
